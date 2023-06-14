@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+OBB: Fix plot_images (#7592)
