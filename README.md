@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
