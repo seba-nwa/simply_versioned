@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Clarify triton server boolean value (#8532)
