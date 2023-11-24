@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
