@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
