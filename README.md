@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Fix TypeError in check_cfg() (#9245)
