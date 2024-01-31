@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Use pathlib in DOTA ops (#7552)
