@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Update OpenVINO INT8 export (#7515)
