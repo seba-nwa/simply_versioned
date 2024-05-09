@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
