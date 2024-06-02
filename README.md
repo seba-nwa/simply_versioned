@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Modify tuner best.pt logic to train first (#8792)
