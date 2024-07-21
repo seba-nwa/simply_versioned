@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
