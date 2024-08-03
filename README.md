@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
