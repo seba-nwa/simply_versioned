@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
