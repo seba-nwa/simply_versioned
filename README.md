@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Use pathlib in DOTA ops (#7552)
