@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
