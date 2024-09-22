@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.0.229 add model.embed() method (#7098)
