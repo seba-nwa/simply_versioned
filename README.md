@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Merge pull request #22 from SkalskiP/patch-1
