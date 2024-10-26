@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Python refactorings and simplifications (#7549)
